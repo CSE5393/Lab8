@@ -1,4 +1,4 @@
-# Lab8
+# Lab 8: Convolutional Network Architectures
 
 ## Members
 * Preston Tighe
